@@ -1,0 +1,1 @@
+This repository demonstrates a common error when using the GetObject function in VBScript and provides a solution for improved error handling.  The `bug.vbs` file shows the problematic code, while `bugSolution.vbs` offers a corrected version.  Ensure that you have a basic understanding of VBScript error handling before reviewing the code.
